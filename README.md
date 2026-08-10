@@ -58,7 +58,7 @@ Personal repository documenting my journey through systems programming fundament
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" />
-<img src="https://img.shields.io/badge/English-Intermediate-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/English-Advanced-blue?style=flat-square" />
 
 ---
 
