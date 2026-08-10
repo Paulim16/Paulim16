@@ -12,7 +12,7 @@ Focused on **AI Agents and Data Science**. I build intelligent automation soluti
 
 - **AUVP Capital:** Automating financial processes with **AI Agents** and **API integrations** — designing workflows that eliminate manual work and keep data flowing reliably between systems.
 - **AUVP Capital:** Developing a web application for credit card financial process automation — mapping bank statements via **API**, processing transactions, and feeding a structured **database** for analysis.
-- **BCC @ UFG:** Building strong foundations in algorithms, data structures, and systems programming with **C** and **C++**.
+- **BCC - UFG:** Building strong foundations in algorithms, data structures, and systems programming with **C** and **C++**.
 
 ---
 
