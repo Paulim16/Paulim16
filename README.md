@@ -38,6 +38,7 @@ Personal repository documenting my journey through systems programming fundament
 **AI & Automation**
 <br>
 <img src="https://img.shields.io/badge/AI%20Agents-6E44FF?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" alt="MLOps" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
 
