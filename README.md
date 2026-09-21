@@ -2,22 +2,29 @@
 
 <br>
 
-**🎓 Computer Science Undergraduate** at the Federal University of Goiás **(UFG)** & Data **AUVP Capital**.
+**🎓 Computer Science Undergraduate** at the Federal University of Goiás **(UFG)**. Data Analyst at **AUVP Capital** & Data & MLOps Engineer at **CEIA - UFG**.
 
-Focused on **AI Agents and Data Science**. I build intelligent automation solutions — from AI-powered agents that streamline financial operations to API-driven data pipelines — with a strong interest in turning data into decisions and repetitive processes into autonomous systems.
+Focused on **Data Engineering, MLOps and AI Agents**. I build the foundations that turn raw data into reliable decisions — from centralized data environments with clear lineage and best practices, to pipelines that deploy, monitor and maintain **Machine Learning** models in production. On top of that, I develop **AI-powered agents** and **API-driven automations** that streamline financial operations and turn repetitive processes into autonomous systems.
 
 ---
 
 ### 🔭 What I'm currently up to
 
-- **AUVP Capital:** Automating financial processes with **AI Agents** and **API integrations** — designing workflows that eliminate manual work and keep data flowing reliably between systems.
-- **AUVP Capital:** Developing a web application for credit card financial process automation — mapping bank statements via **API**, processing transactions, and feeding a structured **database** for analysis.
-- **AUVP Capital:** Building the company's centralized **data environment** — establishing best practices, documenting data sources and lineage, and consolidating information so it can be cross-referenced and used for **Machine Learning** wherever it adds value.
-- **CEIA - UFG:** Developing **AI solutions** for an **agribusiness** company as part of a project at the Center of Excellence in Artificial Intelligence.
+- **AUVP Capital:** Working as a Data Analyst — building the company's centralized **data environment**, automating financial processes with **AI Agents** and **API integrations**, and turning operational data into reliable analysis and **Machine Learning** opportunities.
+- **CEIA - UFG:** Working in **Data & MLOps Engineering** at the Center of Excellence in Artificial Intelligence — designing data pipelines and the infrastructure to train, deploy and monitor **Machine Learning** models in production.
 - **BCC - UFG:** Building strong foundations in algorithms, data structures, and systems programming with **C** and **C++**.
+
 ---
 
 ### 💻 Featured Projects
+
+**AI Solutions for Agribusiness (CEIA - UFG):**
+Developing **AI solutions** for a company in the **agribusiness** sector — building the data and **MLOps** foundations that take models from experimentation to reliable production use.
+*Tech: Python, Machine Learning, MLOps, Data Pipelines.*
+
+**Centralized Data Environment (Data Engineering):**
+Designing AUVP Capital's unified data platform — establishing best practices, documenting data sources and lineage, and consolidating information from multiple systems so it can be cross-referenced and used for **Machine Learning** wherever it adds value.
+*Tech: Python, SQL, REST APIs, Data Modeling.*
 
 **Financial Process Automation (AI Agents + APIs):**
 An automation solution for corporate financial workflows. Integrating multiple services via **REST APIs**, automation flows built with **n8n** and **AI agents**, reducing manual effort in day-to-day financial operations.
